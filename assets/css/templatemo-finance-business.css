@@ -518,6 +518,28 @@ ul.slick-dots {
 
 
 
+/*whatsapp*/
+
+.whatsapp {
+  position:fixed;
+  width:45px;
+  height:45px;
+  bottom:20px;
+  left:20px;
+  background-color:#25d366;
+  color:#FFF;
+  border-radius:50%;
+  text-align:center;
+  font-size:20px;
+  z-index:100;
+}
+
+.whatsapp-icon {
+  margin-top:13px;
+}
+
+/*whatsapp*/
+
 
 /* Request Form */
 
@@ -1269,9 +1291,19 @@ footer .contact-form button.filled-button:hover {
 	.more-info .right-content  {
 		padding: 30px;
 	}
+
+  footer img{
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+
+
+  }
 	footer {
 		padding: 80px 0px 20px 0px;
 	}
+
+
 	footer .footer-item {
 		border-bottom: 1px solid #343434;
 		margin-bottom: 30px;
