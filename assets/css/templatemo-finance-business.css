@@ -1072,6 +1072,9 @@ footer .contact-form button.filled-button:hover {
 	color: #fff;
 }
 
+.sub-footer a:hover {
+	color: #B738DD;
+}
 
 .page-heading {
 	text-align: center;
